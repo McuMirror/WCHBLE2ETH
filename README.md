@@ -9,6 +9,12 @@ Demo-board от WCH - CH32V208WBU6-EVT-R0:
 
 ![img](https://raw.githubusercontent.com/pvvx/WCHBLE2ETH/master/img/CH32V208WBU6-EVT-R0.jpg)
 
+
+CH32V208_ETH:
+
+![img](https://raw.githubusercontent.com/pvvx/WCHBLE2ETH/master/img/CH32V208_ETH.jpg)
+
+
 CH32V208W принимает BLE-рекламу и отправляет в TCP/IP сокет.
 
 * Принимаются все типы BLE-реклам, включая "LE Long Range" (CODED PHY).
